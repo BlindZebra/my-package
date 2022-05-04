@@ -1,0 +1,6 @@
+{
+    "name": "blindzebra/my-package",
+    "type": "project",
+    "license": "MIT",
+    "require": {}
+}
