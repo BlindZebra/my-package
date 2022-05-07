@@ -7,8 +7,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace liererkt\OpenWeatherClient;
-
+namespace blindzebra\my-package;
 class OpenWeatherClient
 {
     private $apiKey;
